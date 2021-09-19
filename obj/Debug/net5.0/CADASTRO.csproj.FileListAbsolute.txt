@@ -1,0 +1,16 @@
+E:\.NET\CADASTRO\bin\Debug\net5.0\CADASTRO.exe
+E:\.NET\CADASTRO\bin\Debug\net5.0\CADASTRO.deps.json
+E:\.NET\CADASTRO\bin\Debug\net5.0\CADASTRO.runtimeconfig.json
+E:\.NET\CADASTRO\bin\Debug\net5.0\CADASTRO.runtimeconfig.dev.json
+E:\.NET\CADASTRO\bin\Debug\net5.0\CADASTRO.dll
+E:\.NET\CADASTRO\bin\Debug\net5.0\ref\CADASTRO.dll
+E:\.NET\CADASTRO\bin\Debug\net5.0\CADASTRO.pdb
+E:\.NET\CADASTRO\obj\Debug\net5.0\CADASTRO.csproj.AssemblyReference.cache
+E:\.NET\CADASTRO\obj\Debug\net5.0\CADASTRO.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\CADASTRO\obj\Debug\net5.0\CADASTRO.AssemblyInfoInputs.cache
+E:\.NET\CADASTRO\obj\Debug\net5.0\CADASTRO.AssemblyInfo.cs
+E:\.NET\CADASTRO\obj\Debug\net5.0\CADASTRO.csproj.CoreCompileInputs.cache
+E:\.NET\CADASTRO\obj\Debug\net5.0\CADASTRO.dll
+E:\.NET\CADASTRO\obj\Debug\net5.0\ref\CADASTRO.dll
+E:\.NET\CADASTRO\obj\Debug\net5.0\CADASTRO.pdb
+E:\.NET\CADASTRO\obj\Debug\net5.0\CADASTRO.genruntimeconfig.cache
